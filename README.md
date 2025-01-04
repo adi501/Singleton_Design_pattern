@@ -6,4 +6,6 @@
 
 ![image](https://github.com/user-attachments/assets/74e06127-d6f7-4cd9-b5c6-81b340c02a6c)
 
+ **Singleton with Thread Safe**
  
+![image](https://github.com/user-attachments/assets/d52dcd8d-5cb7-427b-b03d-ceb049e27110)
